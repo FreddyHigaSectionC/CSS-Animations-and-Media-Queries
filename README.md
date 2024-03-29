@@ -9,3 +9,4 @@ The background contains an image of a wall and a floor with the intention of com
 Finally, the footer was posted with the respective social networks.
 
 ## How to view the project
+To access the product catalog, the user has to click on the welcome button. The animated cards will appear in the middle of the container section.
